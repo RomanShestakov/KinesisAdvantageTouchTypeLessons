@@ -1,0 +1,11 @@
+F<RIGHT>f fv<RIGHT>vf f<RIGHT>f fv<RIGHT>f f<RIGHT>fdcd dc<LEFT>cd
+
+dc<LEFT>d d<LEFT>d dc<LEFT>cd d<LEFT>d dc<LEFT>d d<LEFT> jmj jm<UP>mj
+
+jm<UP>j j<UP>j jm<UP>mj j<UP>j jm<UP>J j<UP>j k,k k,<DOWN>,k k,<DOWN>k
+
+k<DOWN>k k,<DOWN>,k k<DOWN>k k,<DOWN>k k<DOWN>k fv<RIGHT>f dc<LEFT>d jm
+
+<UP>j k,<DOWN>k fv<RIGHT>f dc<LEFT>d jmj<UP>j k,<DOWN>k f<RIGHT>f
+
+d<LEFT>d j<UP>j k<DOWN>k f<RIGHT>f d<LEFT>d j<UP>j k<DOWN>k (break)
