@@ -1,17 +1,17 @@
-3200 Cold Place <TAB> 5821 Daring Lane <TAB> 5487 Eagle Nest <TAB> 4509;
+3200 Cold Place	5821 Daring Lane	5487 Eagle Nest	4509;
 
-Friendly Canyon <TAB> 2753 Game Boulevard <TAB> 6732 House;
+Friendly Canyon	2753 Game Boulevard	6732 House;
 
-Property <TAB> 8712 Inside Lane <TAB> 7613 James Town <TAB> 8459;
+Property	8712 Inside Lane	7613 James Town	8459;
 
-Knowledge Bay <TAB> 9494 Laundry Room <TAB> 6721 Mocha Java <TAB> 6442 Naval;
+Knowledge Bay	9494 Laundry Room	6721 Mocha Java	6442 Naval;
 
-Station <TAB> 9874 Olive Street <TAB> 9083 Prexy Lake;
+Station	9874 Olive Street	9083 Prexy Lake;
 
-Drive <TAB> 1132 Quoted Price <TAB> 4543 Razor Blade <TAB> 2272 Stage;
+Drive	1132 Quoted Price	4543 Razor Blade	2272 Stage;
 
-Play <TAB> 5487 Trendy Place <TAB> 6723 Underground Lane <TAB> 4438 Valor;
+Play	5487 Trendy Place	6723 Underground Lane	4438 Valor;
 
-Avenue <TAB> 2243 Waxed Eloquent <TAB> 2674 Xylophone Drive <TAB> 7612;
+Avenue	2243 Waxed Eloquent	2674 Xylophone Drive	7612;
 
-Younts Villa <TAB> =1293 Zoological Gardens <TAB> (break) fvf fv<RIGHT>vf fv<RIGHT>f
+Younts Villa	=1293 Zoological Gardens	(break) fvf fv<RIGHT>vf fv<RIGHT>f
