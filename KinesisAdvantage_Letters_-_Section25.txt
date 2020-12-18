@@ -14,4 +14,4 @@ Play	5487 Trendy Place	6723 Underground Lane	4438 Valor;
 
 Avenue	2243 Waxed Eloquent	2674 Xylophone Drive	7612;
 
-Younts Villa	=1293 Zoological Gardens	(break) fvf fv<RIGHT>vf fv<RIGHT>f
+Younts Villa	=1293 Zoological Gardens	fvf fv<RIGHT>vf fv<RIGHT>f

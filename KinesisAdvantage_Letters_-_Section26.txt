@@ -8,4 +8,4 @@ k<DOWN>k k,<DOWN>,k k<DOWN>k k,<DOWN>k k<DOWN>k fv<RIGHT>f dc<LEFT>d jm
 
 <UP>j k,<DOWN>k fv<RIGHT>f dc<LEFT>d jmj<UP>j k,<DOWN>k f<RIGHT>f
 
-d<LEFT>d j<UP>j k<DOWN>k f<RIGHT>f d<LEFT>d j<UP>j k<DOWN>k (break)
+d<LEFT>d j<UP>j k<DOWN>k f<RIGHT>f d<LEFT>d j<UP>j k<DOWN>k

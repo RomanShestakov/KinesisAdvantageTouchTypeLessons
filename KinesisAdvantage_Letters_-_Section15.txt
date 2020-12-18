@@ -6,4 +6,4 @@ abcdef ghijkl mnopqr stuvwx yz abcdefghijklmnopqrstuvwxyz abc def;
 
 ghi jkl mno pqr stu vwx yz abcdef ghijkl mnopqr stuvwx yz;
 
-abcdefghijklmnopqrstuvwxyz (break) manifest juicy lopsided safeguard
+abcdefghijklmnopqrstuvwxyz manifest juicy lopsided safeguard
